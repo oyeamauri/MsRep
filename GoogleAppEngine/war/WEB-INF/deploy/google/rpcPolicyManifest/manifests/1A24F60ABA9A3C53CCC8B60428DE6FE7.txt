@@ -1,0 +1,2 @@
+serviceClass: mx.com.multisolutions.client.GreetingService
+path: D54CCE57A1941E247FDFCD061259EE8A.gwt.rpc
